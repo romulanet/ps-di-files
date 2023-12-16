@@ -22,4 +22,13 @@
 		"Amount": 12.50
 	},
 	"Stock": 33
-}]
+},{
+	"Id": "2c08f6d6-2ddc-406a-93ee-26ef747568f5",
+	"Name": "big shoes",
+	"Price": {
+		"IsoCurrency": "EUR",
+		"Amount": 22.50
+	},
+	"Stock": 38
+}
+]
